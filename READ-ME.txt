@@ -1,6 +1,6 @@
-  =>  Template Name    : eLEARNING - eLearning HTML Template
+  =>  Template Name    : Training & Placements - Training & Placements HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/elearning-html-template
+  =>  Template Link    : https://htmlcodex.com/Training & Placements-html-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
